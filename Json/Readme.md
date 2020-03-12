@@ -30,3 +30,10 @@ https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 [LISTED:CKAN]       : https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [LISTED:Github]     : https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic?logo=github
 [LISTED:Curseforge] : https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+
+
+
+  "logo": "https://i.postimg.cc/bvjfsMP5/MIT-17x17.png",
+  "logoColor": "black",
+  "logoWidth": "17",
+  "link": "https://i.postimg.cc/bvjfsMP5/MIT-17x17.png"
