@@ -3,6 +3,5 @@
   "label": "License",
   "message": "MIT",
   "color": "red",
-  "style": "plastic",
-  "labelColor" : "white"
+  "style": "plastic"
 }
