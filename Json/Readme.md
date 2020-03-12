@@ -10,6 +10,16 @@ https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 ![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
 
+***
+[![][shield:license-cc]][ICONS:license]
+
+[![GPLv2][shield:license-cc]][ICONS:license]
+
+
+[ICONS:license]: http://github.com/G-Force/blob/master/GPLv2.txt
+[shield:license-cc]: https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv3.json
+***
+
 
 [license:label]: GPLv2
 [License:url]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json
