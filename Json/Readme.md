@@ -1,17 +1,17 @@
-![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/MIT.json)
+![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/MIT.json)
 
-![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
+![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
 
-![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv3.json)
+![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv3.json)
 
 ![KSP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/ksp.json)
 https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
-![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
+![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
 
 
 [license:label]: GPLv2
-[License:url]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json
+[License:url]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json
 
 [![][shield:ver-mod]][mod:ver]
 
