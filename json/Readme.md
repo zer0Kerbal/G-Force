@@ -1,5 +1,5 @@
 
-![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/MIT.json&logo=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&logoColor=black&logoWidth=19&link=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&labelColor=white)
+![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/MIT.json&logo=https://postimg.cc/K3BCrWhb&logoColor=black&logoWidth=19&link=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&labelColor=white)
 
 ![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
 
