@@ -4,7 +4,8 @@
 
 ![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv3.json)
 
-
+![KSP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/KSP.json)
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 ![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
 
