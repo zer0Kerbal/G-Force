@@ -1,13 +1,13 @@
 
-![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/MIT.json) &logo=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&logoColor=black&logoWidth=17&link=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png)
+![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/MIT.json) &logo=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&logoColor=black&logoWidth=17&link=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png)
 
-![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
+![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
 
-![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv3.json)
+![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv3.json)
 
-![KSP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/ksp.json)
+![KSP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/ksp.json)
 
-![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
+![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json)
 
 ***
 [![][shield:license-cc]][ICONS:license]
@@ -16,12 +16,12 @@
 
 
 [ICONS:license]: http://github.com/G-Force/blob/master/GPLv2.txt
-[shield:license-cc]: https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv3.json
+[shield:license-cc]: https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv3.json
 ***
 
 
 [license:label]: GPLv2
-[License:url]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json
+[License:url]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/json/GPLv2.json
 
 [![][shield:ver-mod]][mod:ver]
 
