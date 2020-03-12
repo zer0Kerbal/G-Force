@@ -1,12 +1,11 @@
 
-![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/MIT.json&log="https://i.postimg.cc/bvjfsMP5/MIT-17x17.png"&logoColor="black"&logoWidth="17"&link="https://i.postimg.cc/bvjfsMP5/MIT-17x17.png)
+![MIT](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/MIT.json) &logo=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png&logoColor=black&logoWidth=17&link=https://i.postimg.cc/bvjfsMP5/MIT-17x17.png)
 
 ![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
 
 ![GPLv3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv3.json)
 
 ![KSP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/ksp.json)
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 ![GPLv2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/G-Force/master/Json/GPLv2.json)
 
